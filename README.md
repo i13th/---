@@ -54,10 +54,10 @@ __3. Исследовательский анализ данных;__
 
 __4. Формулирование вывода по работе.__
 
-## Ссылка на проект.
+## Ссылка на проект:
 
 [Песчано-гравийный карьер. Анализ показателей продаж](https://github.com/i13th/Sand_and_gravel_quarry/blob/main/%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%BE-%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80(sales).ipynb)
 
-## Ссылка на визуализацию.
+## Ссылка на дашборд:
 
-[Визуализация](https://public.tableau.com/app/profile/roman.ivashov/viz/-_17385263174370/Story1)
+[Дашборд](https://public.tableau.com/app/profile/roman.ivashov/viz/-_17385263174370/Story1)
